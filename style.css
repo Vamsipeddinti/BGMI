@@ -1,0 +1,22 @@
+main{
+    background-image: url(https://akm-img-a-in.tosshub.com/aajtak/images/story/202305/bgmi_ban-sixteen_nine.jpg?size=948:533);
+    background-size: cover;
+    margin: -1%;
+    }
+    header{
+        background-color: black;
+        color: whitesmoke;
+        margin-inline-start: -1%;
+        margin-inline-end: -1%;
+        
+        margin-top: -2%;
+    }
+    
+    #bgmi{
+        margin: -1%;
+        font-size: 48px;
+        font-weight: 700;
+        line-height: 1em;
+        color: brown;
+        font-family: IBM    Plex Mono;
+    }
